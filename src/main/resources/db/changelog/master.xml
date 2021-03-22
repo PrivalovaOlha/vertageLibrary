@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<databaseChangeLog
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.liquibase.org/xml/ns/dbchangelog">
+
+    <include file="db/changelog/changes/20210319-2156-db-init.xml"/>
+
+</databaseChangeLog>
